@@ -18,4 +18,4 @@ What would the output for the following strings be?
 * `palindrome?("learnlovecode")`
 
 ### Bonus
-Try rewriting the `palindrome?` method to use (recursion)[https://www.google.com/search?q=recursion&oq=recursion&aqs=chrome..69i57j0l5.1251j1j7&sourceid=chrome&ie=UTF-8]
+Try rewriting the `palindrome?` method to use [recursion](https://www.google.com/search?q=recursion&oq=recursion&aqs=chrome..69i57j0l5.1251j1j7&sourceid=chrome&ie=UTF-8)
