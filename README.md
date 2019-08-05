@@ -4,7 +4,7 @@
 A palindrome is a word, phrase, or sequence that reads the same backwards and forwards.
 
 ### Problem Statement
-Write out a method named `palindrome?` that takes in a string as an argument and determines whether that string is a palindrome.
+Write out a method named `palindrome?` that takes in a string as an argument and determines whether that string is a palindrome.  Do **not** use `.reverse`
 
 ### Example
 
@@ -18,7 +18,4 @@ What would the output for the following strings be?
 * `palindrome?("learnlovecode")`
 
 ### Bonus
-Try writing the 'palindrome?' method using string indexes (eg. string = "Flatiron", string[0] = "F")
-
-### SuperBonus
-Try rewriting the `palindrome?` method as a recursive method without using any built-in Ruby methods. 
+Try rewriting the `palindrome?` method to use (recursion)[https://www.google.com/search?q=recursion&oq=recursion&aqs=chrome..69i57j0l5.1251j1j7&sourceid=chrome&ie=UTF-8]
